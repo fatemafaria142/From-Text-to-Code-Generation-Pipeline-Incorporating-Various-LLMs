@@ -23,4 +23,12 @@
     <h3>TinyLlama</h3>
     <p>Model Link: <a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">TinyLlama</a></p>
   </li>
+    <li>
+    <h3>Starling-LM-7B-alpha</h3>
+    <p>Model Link: <a href="https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha">Starling-LM-7B-alpha</a></p>
+  </li>
+    <li>
+    <h3>Mistral-7B-Instruct-v0.2</h3>
+    <p>Model Link: <a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B-Instruct-v0.2</a></p>
+  </li>
 </ol>
