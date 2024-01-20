@@ -31,4 +31,9 @@
     <h3>Mistral-7B-Instruct-v0.2</h3>
     <p>Model Link: <a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B-Instruct-v0.2</a></p>
   </li>
+    </li>
+    <li>
+    <h3>OpenChat 3.5 1210</h3>
+    <p>Model Link: <a href="https://huggingface.co/openchat/openchat-3.5-1210">OpenChat 3.5 1210</a></p>
+  </li>
 </ol>
