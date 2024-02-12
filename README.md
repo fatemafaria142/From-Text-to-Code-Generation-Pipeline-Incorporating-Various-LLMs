@@ -4,7 +4,7 @@
 <p>I utilized the <a href="https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k">CodeAlpaca-20k</a> dataset for this project.</p>
 
 <h2>Large Language Models (LLMs)</h2>
-<p>I employed four different types of Large Language Models (LLMs) from Hugging Face for this task. Here are the details along with their respective links:</p>
+<p>I employed seven different types of Large Language Models (LLMs) from Hugging Face for this task. Here are the details along with their respective links:</p>
 
 <ol>
  <li>
@@ -36,5 +36,4 @@
     <h3>GPT2-Medium</h3>
     <p>Model Link: <a href="https://huggingface.co/openai-community/gpt2-medium">GPT2-Medium</a></p>
   </li>
-  <li>
 </ol>
