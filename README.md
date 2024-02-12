@@ -7,6 +7,7 @@
 <p>I employed four different types of Large Language Models (LLMs) from Hugging Face for this task. Here are the details along with their respective links:</p>
 
 <ol>
+ <li>
     <h3>Mistral-7B-v0.1</h3>
     <p>Model Link: <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral 7B</a></p>
   </li>
