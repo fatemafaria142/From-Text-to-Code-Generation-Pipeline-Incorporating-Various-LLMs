@@ -12,8 +12,8 @@
     <p>Model Link: <a href="https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf">CodeLlama-7b-Instruct-hf</a></p>
   </li>
   <li>
-    <h3>Mistral-7B-v0.1</h3>
-    <p>Model Link: <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral 7B</a></p>
+    <h3>CodeLlama-7b-hf</h3>
+    <p>Model Link: <a href="https://huggingface.co/codellama/CodeLlama-7b-hf">CodeLlama-7b-hf</a></p>
   </li>
  <li>
     <h3>Mistral-7B-v0.1</h3>
