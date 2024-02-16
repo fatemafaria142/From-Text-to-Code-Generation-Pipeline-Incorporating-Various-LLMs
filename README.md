@@ -20,7 +20,7 @@
     <p>Model Link: <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral 7B</a></p>
   </li>
   <li>
-    <h3>TinyLlama</h3>
+    <h3>TinyLlama-1.1B-Chat-v1.0</h3>
     <p>Model Link: <a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">TinyLlama</a></p>
   </li>
     <li>
